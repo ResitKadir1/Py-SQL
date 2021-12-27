@@ -11,10 +11,13 @@
 ## SQLAlchemy
 
 ![alt text](img/SQLAlchemy.png)
+
 ###https://www.pythonsheets.com/notes/python-sqlalchemy.html
 
 
 ##SQLite
 
 ![alt text](img/SQLite.png)
+
+
 ###https://www.sqlite.org/index.html
