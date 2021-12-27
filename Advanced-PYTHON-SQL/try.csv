@@ -1,0 +1,115 @@
+,sku,product_name,category_id,category description,size,price
+0,ALB008,Delicate,1,Olive Oils,8,10.99
+1,ALB032,Delicate,1,Olive Oils,32,18.99
+2,ALB064,Delicate,1,Olive Oils,64,22.99
+3,ALB128,Delicate,1,Olive Oils,128,26.99
+4,EV008,Extra Virgin,1,Olive Oils,8,8.99
+5,EV016,Extra Virgin,1,Olive Oils,16,12.99
+6,EV032,Extra Virgin,1,Olive Oils,32,16.99
+7,EV064,Extra Virgin,1,Olive Oils,64,20.99
+8,EV128,Extra Virgin,1,Olive Oils,128,24.99
+9,FCP008,First Cold Press,1,Olive Oils,8,8.99
+10,FCP016,First Cold Press,1,Olive Oils,16,12.99
+11,FCP032,First Cold Press,1,Olive Oils,32,16.99
+12,FCP064,First Cold Press,1,Olive Oils,64,20.99
+13,FCP128,First Cold Press,1,Olive Oils,128,24.99
+14,FR008,Frantoio,1,Olive Oils,8,10.99
+15,FR016,Frantoio,1,Olive Oils,16,14.99
+16,FR032,Frantoio,1,Olive Oils,32,18.99
+17,FR064,Frantoio,1,Olive Oils,64,22.99
+18,FR128,Frantoio,1,Olive Oils,128,26.99
+19,HOJ008,Bold,1,Olive Oils,8,11.99
+20,HOJ016,Bold,1,Olive Oils,16,15.99
+21,HOJ032,Bold,1,Olive Oils,32,19.99
+22,HOJ064,Bold,1,Olive Oils,64,23.99
+23,HOJ128,Bold,1,Olive Oils,128,27.99
+24,KRN008,Koroneiki,1,Olive Oils,8,10.99
+25,KRN016,Koroneiki,1,Olive Oils,16,14.99
+26,KRN032,Koroneiki,1,Olive Oils,32,18.99
+27,KRN064,Koroneiki,1,Olive Oils,64,22.99
+28,KRN128,Koroneiki,1,Olive Oils,128,26.99
+29,LEC008,Leccino,1,Olive Oils,8,10.99
+30,LEC016,Leccino,1,Olive Oils,16,14.99
+31,LEC032,Leccino,1,Olive Oils,32,18.99
+32,LEC064,Leccino,1,Olive Oils,64,22.99
+33,LEC128,Leccino,1,Olive Oils,128,26.99
+34,LGT008,Light,1,Olive Oils,8,8.99
+35,LGT016,Light,1,Olive Oils,16,12.99
+36,LGT032,Light,1,Olive Oils,32,16.99
+37,LGT064,Light,1,Olive Oils,64,20.99
+38,LGT128,Light,1,Olive Oils,128,24.99
+39,MAN008,Manzanilla,1,Olive Oils,8,10.99
+40,MAN016,Manzanilla,1,Olive Oils,16,14.99
+41,MAN032,Manzanilla,1,Olive Oils,32,18.99
+42,MAN064,Manzanilla,1,Olive Oils,64,22.99
+43,MAN128,Manzanilla,1,Olive Oils,128,26.99
+44,MIS008,Mission,1,Olive Oils,8,10.99
+45,MIS016,Mission,1,Olive Oils,16,14.99
+46,MIS032,Mission,1,Olive Oils,32,18.99
+47,MIS064,Mission,1,Olive Oils,64,22.99
+48,MIS128,Mission,1,Olive Oils,128,26.99
+49,MOR008,Moraiolo,1,Olive Oils,8,10.99
+50,MOR016,Moraiolo,1,Olive Oils,16,14.99
+51,MOR032,Moraiolo,1,Olive Oils,32,18.99
+52,MOR064,Moraiolo,1,Olive Oils,64,22.99
+53,MOR128,Moraiolo,1,Olive Oils,128,26.99
+54,OBL008,Oblica,1,Olive Oils,8,11.99
+55,OBL016,Oblica,1,Olive Oils,16,15.99
+56,OBL032,Oblica,1,Olive Oils,32,19.99
+57,OBL064,Oblica,1,Olive Oils,64,22.99
+58,OBL128,Oblica,1,Olive Oils,128,27.99
+59,PEN008,Pendolino,1,Olive Oils,8,10.99
+60,PEN016,Pendolino,1,Olive Oils,16,14.99
+61,PEN032,Pendolino,1,Olive Oils,32,18.99
+62,PEN064,Pendolino,1,Olive Oils,64,22.99
+63,PEN128,Pendolino,1,Olive Oils,128,26.99
+64,PCH008,Picholine,1,Olive Oils,8,11.99
+65,PCH016,Picholine,1,Olive Oils,16,15.99
+66,PCH032,Picholine,1,Olive Oils,32,19.99
+67,PCH064,Picholine,1,Olive Oils,64,23.99
+68,PCH128,Picholine,1,Olive Oils,128,27.99
+69,PIC008,Picual,1,Olive Oils,8,10.99
+70,PIC016,Picual,1,Olive Oils,16,14.99
+71,PIC032,Picual,1,Olive Oils,32,18.99
+72,PIC064,Picual,1,Olive Oils,64,22.99
+73,PIC128,Picual,1,Olive Oils,128,26.99
+74,PUR008,Pure,1,Olive Oils,8,8.99
+75,PUR016,Pure,1,Olive Oils,16,12.99
+76,PUR032,Pure,1,Olive Oils,32,16.99
+77,PUR064,Pure,1,Olive Oils,64,20.99
+78,PUR128,Pure,1,Olive Oils,128,24.99
+79,REF008,Refined,1,Olive Oils,8,8.99
+80,REF016,Refined,1,Olive Oils,16,12.99
+81,REF032,Refined,1,Olive Oils,32,16.99
+82,REF064,Refined,1,Olive Oils,64,20.99
+83,REF128,Refined,1,Olive Oils,128,24.99
+84,V008,Virgin,1,Olive Oils,8,8.99
+85,V016,Virgin,1,Olive Oils,16,12.99
+86,V032,Virgin,1,Olive Oils,32,16.99
+87,V064,Virgin,1,Olive Oils,64,20.99
+88,V128,Virgin,1,Olive Oils,128,24.99
+89,MI008,Mandarin-Infused EVO,2,Flavor Infused Oils,8,8.99
+90,MI016,Mandarin-Infused EVO,2,Flavor Infused Oils,16,12.99
+91,MI032,Mandarin-Infused EVO,2,Flavor Infused Oils,32,16.99
+92,LI008,Lemon-Infused EVO,2,Flavor Infused Oils,8,8.99
+93,LI016,Lemon-Infused EVO,2,Flavor Infused Oils,16,12.99
+94,LI032,Lemon-Infused EVO,2,Flavor Infused Oils,32,16.99
+95,BI008,Basil-Infused EVO,2,Flavor Infused Oils,8,10.99
+96,BI016,Basil-Infused EVO,2,Flavor Infused Oils,16,14.99
+97,BI032,Basil-Infused EVO,2,Flavor Infused Oils,32,18.99
+98,RI008,Rosemary-Infused EVO,2,Flavor Infused Oils,8,10.99
+99,RI016,Rosemary-Infused EVO,2,Flavor Infused Oils,16,14.99
+100,RI032,Rosemary-Infused EVO,2,Flavor Infused Oils,32,18.99
+101,GI008,Garlic-Infused EVO,2,Flavor Infused Oils,8,11.99
+102,GI016,Garlic-Infused EVO,2,Flavor Infused Oils,16,15.99
+103,GI032,Garlic-Infused EVO,2,Flavor Infused Oils,32,19.99
+104,JI008,Chili-Infused EVO,2,Flavor Infused Oils,8,11.99
+105,JI016,Chili-Infused EVO,2,Flavor Infused Oils,16,15.99
+106,JI032,Chili-Infused EVO,2,Flavor Infused Oils,32,19.99
+107,OGEC004,Olive Glow eye cream,3,Bath and Beauty,4,18.99
+108,OGFL006,Olive Glow face lotion,3,Bath and Beauty,6,14.99
+109,OGBL012,Olive Glow body lotion,3,Bath and Beauty,12,12.99
+110,OGFT006,Olive Glow foot treatment,3,Bath and Beauty,6,7.99
+111,OGNR004,Olive Glow night repair,3,Bath and Beauty,4,21.99
+112,OGBG016,Olive Glow bath gel,3,Bath and Beauty,16,9.99
+113,OGHS006,Olive Glow hand soap,3,Bath and Beauty,6,6.99

@@ -1,0 +1,25 @@
+
+
+#challenge -5 min
+
+*1-Use inventory.product to explore the two_three olive oil product data
+
+*2-Write query with window function that expands on the information for each product
+
+*3-Display the min max,and avarage price for each product, as well as the total count of products within the same category and ssize classification
+
+*Remeber to use a window clause when frames use the same parameters
+
+
+
+
+
+
+select category_id, product_name, size, price,
+	max(price) over(w),
+	min(price) over(w),
+	avg(price) over(w),
+	count(*) over(w)
+from inventory.products
+window w as (partition by category_id, size)
+order by category_id, product_name, size;
