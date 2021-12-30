@@ -24,7 +24,6 @@ https://www.pythonsheets.com/notes/python-sqlalchemy.html
 https://www.sqlite.org/index.html
 
 
-### Creating Database
-### Creating Tables
-### insering-importing Data into Database
+### Creating Database ´Tables´
+### inserting-importing Data into Database
 ### Performing queries
